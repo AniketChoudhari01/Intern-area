@@ -5,7 +5,6 @@ const InternshipData = require("./Data/InternshipDatAvl"); // Import the interns
 const Internship = require("./Model/Internship");
 // const url = process.env.DATABASEURL;
 const url =
-  "mongodb+srv://internDB:mongoAniketInternArea@cluster0.sxodt.mongodb.net/intern_admin?retryWrites=true&w=majority&appName=Cluster0";
 
 // MongoDB Connection
 mongoose
